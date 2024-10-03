@@ -321,13 +321,13 @@ footer img{
     width: 30px;
 }
 
-footer a:first-child{
+/* footer a:first-child{
     filter: brightness(200%);
 }
 
 footer a:first-child:hover{
     filter: brightness(170%);
-}
+} */
 
 footer a{
     color: #ef7fe4;
